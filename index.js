@@ -151,5 +151,3 @@ fakeReqCallBack("www.google.com",(successCode)=>
 {
     console.log("Failed to load",failureCode);
 })
-
-const fakeReqPromises=(url)
